@@ -1,0 +1,9 @@
+# Resultados generados por los notebooks (se reconstruyen corriendo 01 -> 05)
+04_Resultados/*.csv
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
